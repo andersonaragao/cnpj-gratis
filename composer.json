@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-4": {
-            "AndersonChaves\\Cnpj\\": "src/"
+            "AndersonChaves\\CnpjGratis\\": "src/"
         }
     },
     "extra": {
