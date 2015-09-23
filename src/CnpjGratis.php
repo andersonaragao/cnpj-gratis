@@ -1,6 +1,6 @@
 <?php
 
-namespace JansenFelipe\CnpjGratis;
+namespace AndersonAragao\CnpjGratis;
 
 use Exception;
 use Goutte\Client;
