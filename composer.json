@@ -5,8 +5,7 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Jansen Felipe",
-            "email": "jansen.felipe@gmail.com"
+            "name": "Anderson Chaves"
         }
     ],
     "require": {
@@ -21,17 +20,13 @@
     },
     "autoload": {
         "psr-4": {
-            "JansenFelipe\\CnpjGratis\\": "src/"
+            "AndersonChaves\\Cnpj\\": "src/"
         }
     },
     "extra": {
         "branch-alias": {
             "dev-master": "2.0-dev"
         }
-    },
-     "suggest": {
-        "jansenfelipe/cpf-gratis": "Permite consulta de CPF no site da receita",
-        "jansenfelipe/cep-gratis": "Permite consulta de CEP no site dos Correios"
     },
     "minimum-stability": "dev"
 }
